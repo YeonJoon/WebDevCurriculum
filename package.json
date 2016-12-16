@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "dependencies": {
+  	"body-parser": "^1.15.2",
+    "express": "*",
+    "express-session": "*",
+    "sequelize" : "*",
+    "mysql" : "*"
+  }
+}
